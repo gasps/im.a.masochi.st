@@ -199,7 +199,7 @@ function projects() {
 
 function about() {
     updatePage(
-        "<a href='https://discord.gg/masochist' target='_blank' style='color: white;'>@masochist</a> is a cyber collective with a primary focus on coding and various other digital endeavors",
+        "<a href='https://discord.gg/ic3' target='_blank' style='color: white;'>@masochist</a> is a cyber collective with a primary focus on coding and various other digital endeavors",
         "about"
     );
 }
