@@ -97,7 +97,7 @@ function memberCall(pfpSrc, textContent, user) {
 function lsd() {
     memberCall(
         "assets/lsd_icon.png",
-        "<a href='https://solo.to/com' target='_blank' style='color: white;'>solo.to</a>",
+        "<a href='https://masochi.st/s' target='_blank' style='color: white;'>masochi.st</a>",
         "lsd"
     );
 }
