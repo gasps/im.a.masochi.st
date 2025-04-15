@@ -110,6 +110,15 @@ function evie() {
     );
 }
 
+
+function peyton() {
+    memberCall(
+        "assets/peyton.png",
+        "<a href='https://x.com/dickable' target='_blank' style='color: white;'>twitter</a>, <a href='https://t.me/peyton47' target='_blank' style='color: white;'>telegram</a>",
+        "peyton"
+    );
+}
+
 // CORE BUTTONS
 
 function memberCall(pfpSrc, textContent, user) {
