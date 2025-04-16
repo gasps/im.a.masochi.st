@@ -41,13 +41,12 @@ body, html {
 }
 
 .full-page-overlay {
-    position: absolute;
-    transition: opacity 1s ease-in-out;
+    position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    transition: opacity 1s ease-in-out;
     user-select: none;
     -webkit-user-select: none;
     -moz-user-select: none;
